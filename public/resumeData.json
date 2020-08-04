@@ -2,7 +2,7 @@
   "main": {
     "name": "Erik Adames",
     "description": "I am a full stack software engineer with a background in Supply Chain.",
-    "image": "profilePic.jpeg",
+    "image": "profilepic.jpeg",
     "bio": "My name is Erik Adames and I am a Full Stack Web Developer. I have recently moved to the Bay Area after spending the prior 6 years in Switzerland. While abroad, I led large complex pricing projects involving various teams from around the world. After spending most of my career working in the transportation industry, I decided that a change was required. In 2017, I enrolled in graduate classes at the Harvard University Extension School to obtain a Certificate in Data Science. That was completed in 2019 and the following year I moved to Berkeley, California. To enhance my skillset, I enrolled at the Full Stack Web Developer bootcamp offered by University of California Berkeley which was completed in 2020. The bootcamp provided a deep understanding of a variety of computer languages as well as the principles and techniques of website construction and maintenance. My previous work experience help develop my dependable and superb work ethic.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "egadames990@gmail.com",
@@ -13,7 +13,7 @@
       "state": " CA"
     },
     "website": "https://egadames.github.io/",
-    "resumedownload": "./CV_EA.pdf",
+    "resumedownload": "https://raw.githubusercontent.com/egadames/egadames.github.io/master/public/CV_EA.pdf",
     "social": [
       {
         "name": "linkedin",
