@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Erik Adames",
+    "description": "I am a full stack software engineer with a background in Supply Chain.",
+    "image": "profilePic.jpeg",
+    "bio": "My name is Erik Adames and I am a Full Stack Web Developer. I have recently moved to the Bay Area after spending the prior 6 years in Switzerland. While abroad, I led large complex pricing projects involving various teams from around the world. After spending most of my career working in the transportation industry, I decided that a change was required. In 2017, I enrolled in graduate classes at the Harvard University Extension School to obtain a Certificate in Data Science. That was completed in 2019 and the following year I moved to Berkeley, California. To enhance my skillset, I enrolled at the Full Stack Web Developer bootcamp offered by University of California Berkeley which was completed in 2020. The bootcamp provided a deep understanding of a variety of computer languages as well as the principles and techniques of website construction and maintenance. My previous work experience help develop my dependable and superb work ethic.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "egadames990@gmail.com",
+    "github": "https://github.com/egadames",
+    "project": "https://www.linkedin.com/in/erik-adames-564b17bb/",
+    "address": {
+      "city": "Berkeley,",
+      "state": " CA"
+    },
+    "website": "https://egadames.github.io/",
+    "resumedownload": "./CV_EA.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/erik-adames-564b17bb/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/egadames",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "UC Berkeley Extension",
+        "degree": "Full Stack Web Developer Professional Certificate",
+        "graduated": "June 2020",
+        "description": "A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, NoSQL, ReactJS and Redux."
+      },
+      {
+        "school": "Harvard University Extension School",
+        "degree": "Graduate Certificate in Data Science",
+        "graduated": "May 2019",
+        "description": "Finished the 4-course graduate level certificate with a 3.67 GPA. Relevant Coursework: Statistical Modeling, Quantitative Methods, Elements of Data Science in R, and Remote Sensing Data"
+      },
+      {
+        "school": "University of North Carolina at Charlotte",
+        "degree": "Bachelor of Arts",
+        "graduated": "August 2009",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Kuehne and Nagel Inc. - Schindellegi, Switzerland",
+        "title": "Global Projects Pricing Analyst",
+        "years": "Decemeber 2013 - February 2019",
+        "description": "The position entailed handling complex pricing projects with teams from different regions of the world. The role required to be the project manager for each assigned project. This involved a project compliance review of the customer’s requirements, communication with project owners and stakeholders, strategy formation, launching, problem-solving, data collection, data cleansing, data analysis, revisions and submission."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fantasy Team Builder",
+        "category": "This app allows authenticated users to build teams by fantasy points.",
+        "tech": "Node.js, Express, MongoDB, Nosql, React and Redux",
+        "image": "fantasyTeam.JPG",
+        "url": "https://thawing-sierra-93407.herokuapp.com/"
+      },
+      {
+        "title": "Study App",
+        "category": "The app is way to create, edit, delete and review flashcards for studying.",
+        "tech": "HTML, CSS, JavaScript, MySQL and React",
+        "image": "startPage.JPG",
+        "url": "https://guarded-escarpment-04692.herokuapp.com/"
+      },
+      {
+        "title": "Employee Directory",
+        "category": "The app that contains a directory that be seached and sorted.",
+        "tech": "HTML, CSS and React",
+        "image": "directory.png",
+        "url": "https://afternoon-earth-35344.herokuapp.com/"
+      },
+      {
+        "title": "Note Taker",
+        "category": "An application that can be used to write, save, and delete notes",
+        "tech": "HTML, CSS, jQuery, Express and Node.js",
+        "image": "noteTaker.JPG",
+        "url": "https://agile-sands-94507.herokuapp.com/"
+      },
+      {
+        "title": "Workout Tracker",
+        "category": "This app allows a user to view create and track daily workouts.",
+        "tech": "HTML, CSS, JavaScript, Node.js, MongoDB and NoSQL",
+        "image": "workOut.JPG",
+        "url": "https://still-springs-69398.herokuapp.com/"
+      },
+      {
+        "title": "Password Generator",
+        "category": "This app will generate a password between 8-128 characters",
+        "tech": "HTML, CSS and JavaScript",
+        "image": "pwGenerator.png",
+        "url": "https://egadames.github.io/Password-Generator/"
+      }
+    ]
+  }
+}
