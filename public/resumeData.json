@@ -2,8 +2,8 @@
   "main": {
     "name":"Erik Adames",
     "description":"I am a full stack software engineer with a background in Supply Chain.",
-    "image":"profilePic.jpeg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "image":"https://github.com/egadames/egadames.github.io/blob/master/images/profilepic.jpeg",
+    "bio":"My name is Erik Adames and I am a Full Stack Web Developer. I have recently moved to the Bay Area after spending the prior 6 years in Switzerland. While abroad, I led large complex pricing projects involving various teams from around the world. After spending most of my career working in the transportation industry, I decided that a change was required. In 2017, I enrolled in graduate classes at the Harvard University Extension School to obtain a Certificate in Data Science. That was completed in 2019 and the following I moved to the Berkeley, California. To enhance my skillset, I enrolled at the Full Stack Web Developer bootcamp offered by University of California Berkeley which was completed in in 2020. The bootcamp provided deep understanding of a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. My previous work experience help developed my dependability, creativity and a superb work ethic.   ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "egadames990@gmail.com",
     "github":"https://github.com/egadames",
@@ -12,8 +12,8 @@
       "city":"Berkeley,",
       "state":" CA"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"./CV_EA.pdf",
+    "website": "https://github.com/egadames/egadames.github.io/blob/master/images/profilepic.jpeg",
+    "resumedownload":"https://github.com/egadames/egadames.github.io/blob/master/CV_EA.pdf",
     "social":[
       {
         "name":"linkedin",
