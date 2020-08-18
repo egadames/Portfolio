@@ -8,6 +8,7 @@ class Portfolio extends Component {
         var projectImage = 'images/portfolio/' + projects.image;
         
         return (
+
           <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
               <a href={projects.url} title={projects.title} target="_blank" rel="noopener noreferrer">
@@ -22,7 +23,10 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
+            <br/>
+            <a href={projects.repo} target="_blank" rel="noopener noreferrer"> Github Repo </a>
           </div>
+
         )
       })
     }
