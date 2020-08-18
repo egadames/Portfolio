@@ -95,42 +95,54 @@
         "category": "This app allows authenticated users to build teams by fantasy points.",
         "tech": "Node.js, Express, MongoDB, Nosql, React and Redux",
         "image": "fantasyTeam.JPG",
-        "url": "https://thawing-sierra-93407.herokuapp.com/"
+        "url": "https://thawing-sierra-93407.herokuapp.com/",
+        "repo": "https://github.com/egadames/fantasyTeamBuilder"
       },
       {
         "title": "Study App",
         "category": "The app is way to create, edit, delete and review flashcards for studying.",
         "tech": "HTML, CSS, JavaScript, MySQL and React",
         "image": "startPage.JPG",
-        "url": "https://guarded-escarpment-04692.herokuapp.com/"
+        "url": "https://guarded-escarpment-04692.herokuapp.com/",
+        "repo": "https://github.com/egadames/flashCardApp"
+
       },
       {
         "title": "Employee Directory",
         "category": "The app that contains a directory that be seached and sorted.",
         "tech": "HTML, CSS and React",
         "image": "directory.png",
-        "url": "https://afternoon-earth-35344.herokuapp.com/"
+        "url": "https://afternoon-earth-35344.herokuapp.com/",
+        "repo": "https://github.com/egadames/employeeDirectory"
+
       },
       {
         "title": "Note Taker",
         "category": "An application that can be used to write, save, and delete notes",
         "tech": "HTML, CSS, jQuery, Express and Node.js",
         "image": "noteTaker.JPG",
-        "url": "https://agile-sands-94507.herokuapp.com/"
+        "url": "https://agile-sands-94507.herokuapp.com/",
+        "repo": "https://github.com/egadames/noteTaker"
+
       },
       {
         "title": "Workout Tracker",
         "category": "This app allows a user to view create and track daily workouts.",
         "tech": "HTML, CSS, JavaScript, Node.js, MongoDB and NoSQL",
         "image": "workOut.JPG",
-        "url": "https://still-springs-69398.herokuapp.com/"
+        "url": "https://still-springs-69398.herokuapp.com/",
+        "repo": "https://github.com/egadames/Workout-Tracker"
+
       },
       {
         "title": "Password Generator",
         "category": "This app will generate a password between 8-128 characters",
         "tech": "HTML, CSS and JavaScript",
         "image": "pwGenerator.png",
-        "url": "https://egadames.github.io/Password-Generator/"
+        "url": "https://egadames.github.io/Password-Generator/",
+        "repo": "https://github.com/egadames/Password-Generator"
+
+
       }
     ]
   }
