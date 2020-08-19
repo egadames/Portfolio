@@ -8,7 +8,6 @@
 
 # production
 /build
-build
 
 # misc
 .DS_Store
@@ -22,4 +21,3 @@ yarn-debug.log*
 yarn-error.log*
 
 LICENSE
-package-lock
