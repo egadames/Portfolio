@@ -26,7 +26,6 @@ class Portfolio extends Component {
             <br/>
             <a href={projects.repo} target="_blank" rel="noopener noreferrer"> Github Repo </a>
           </div>
-
         )
       })
     }
