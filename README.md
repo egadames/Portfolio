@@ -9,7 +9,7 @@ npm i
 npm start
 ```
 
-### 3. BUild
+### 3. Build
 ```shell
 npm run build
 ```
