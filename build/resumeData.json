@@ -7,17 +7,17 @@
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "egadames990@gmail.com",
     "github": "https://github.com/egadames",
-    "project": "https://www.linkedin.com/in/erik-adames-564b17bb/",
+    "project": "https://www.linkedin.com/in/erikadames/",
     "address": {
       "city": "Berkeley,",
       "state": " CA"
     },
     "website": "https://egadames.github.io/",
-    "resumedownload": "https://drive.google.com/file/d/1lYYRQrwHRRxQ66mBALW7yNhuix0wXQWK/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/196zRY-fWz3gcc-mrYrSVPlxT8Ej_dkk6/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/erik-adames-564b17bb/",
+        "url": "https://www.linkedin.com/in/erikadames/",
         "className": "fa fa-linkedin"
       },
       {
@@ -105,7 +105,6 @@
         "image": "startPage.JPG",
         "url": "https://guarded-escarpment-04692.herokuapp.com/",
         "repo": "https://github.com/egadames/flashCardApp"
-
       },
       {
         "title": "Employee Directory",
@@ -114,7 +113,6 @@
         "image": "directory.png",
         "url": "https://afternoon-earth-35344.herokuapp.com/",
         "repo": "https://github.com/egadames/employeeDirectory"
-
       },
       {
         "title": "Note Taker",
@@ -123,7 +121,6 @@
         "image": "noteTaker.JPG",
         "url": "https://agile-sands-94507.herokuapp.com/",
         "repo": "https://github.com/egadames/noteTaker"
-
       },
       {
         "title": "Workout Tracker",
@@ -132,7 +129,6 @@
         "image": "workOut.JPG",
         "url": "https://still-springs-69398.herokuapp.com/",
         "repo": "https://github.com/egadames/Workout-Tracker"
-
       },
       {
         "title": "Password Generator",
@@ -141,8 +137,6 @@
         "image": "pwGenerator.png",
         "url": "https://egadames.github.io/Password-Generator/",
         "repo": "https://github.com/egadames/Password-Generator"
-
-
       }
     ]
   }
