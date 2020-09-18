@@ -3,7 +3,10 @@
     "name": "Erik Adames",
     "description": "I am a full stack software engineer with a background in Supply Chain.",
     "image": "profilepic.jpeg",
-    "bio": "My name is Erik Adames and I am a Full Stack Web Developer. I have recently moved to the Bay Area after spending the prior 6 years in Switzerland. While abroad, I led large complex pricing projects involving various teams from around the world. After spending most of my career working in the transportation industry, I decided that a change was required. In 2017, I enrolled in graduate classes at the Harvard University Extension School to obtain a Certificate in Data Science. That was completed in 2019 and the following year I moved to Berkeley, California. To enhance my skillset, I enrolled at the Full Stack Web Developer bootcamp offered by University of California Berkeley which was completed in 2020. The bootcamp provided a deep understanding of a variety of computer languages as well as the principles and techniques of website construction and maintenance. My previous work experience help develop my dependable and superb work ethic.",
+    "bio": "I began my career at a local branch of Kuehne and Nagel, which is a large global shipping company, and worked full time directly after graduating college. In this role, I was able to establish a strong professional relationship with customers and become effective at developing new customers or stabilizing very demanding and complex customer accounts.  
+      In 2014, I was transferred from the local Charlotte, NC office to the global headquarters in Switzerland to lead large complex pricing projects.  These projects entailed a significant amount of analysis and access to various technological platforms. Due to this, I developed a passion for combining analysis and technology which in turn led me to enroll at the Harvard Extension School to obtain a graduate certificate in data science.
+      In late 2018, I married my wife who is from Switzerland and we started preparing for our eventual move to the United States. My wife started receiving great offers to work in the Bay Area so this enabled me to pursue a career in a more technology-driven occupation that builds upon my strong background in analysis. To enhance my skill set, I also enrolled at the Full Stack Web Developer bootcamp offered by University of California Berkeley which was completed in 2020.  The bootcamp provided a deep understanding of a variety of computer languages as well as the principles of data structures, algorithms and object-oriented programming. My previous work experience helped develop my dependable and superb work ethic. I am now positioned for a full-time employment opportunity and hope to hear from you soon
+      ",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "egadames990@gmail.com",
     "github": "https://github.com/egadames",
@@ -12,8 +15,8 @@
       "city": "Berkeley,",
       "state": " CA"
     },
-    "website": "https://egadames.github.io/",
-    "resumedownload": "https://drive.google.com/file/d/196zRY-fWz3gcc-mrYrSVPlxT8Ej_dkk6/view?usp=sharing",
+    "website": "https://www.adames.dev/",
+    "resumedownload": "https://drive.google.com/file/d/1Zxlfc9BAUFCJYrVvTQlJH933xtRVuDvv/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -34,7 +37,7 @@
         "school": "UC Berkeley Extension",
         "degree": "Full Stack Web Developer Professional Certificate",
         "graduated": "June 2020",
-        "description": "A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, NoSQL, ReactJS and Redux."
+        "description": "A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node Js, MySQL, MongoDB, Express, NoSQL, ReactJS and Redux. "
       },
       {
         "school": "Harvard University Extension School",
@@ -54,7 +57,13 @@
         "company": "Kuehne and Nagel Inc. - Schindellegi, Switzerland",
         "title": "Global Projects Pricing Analyst",
         "years": "Decemeber 2013 - February 2019",
-        "description": "The position entailed handling complex pricing projects with teams from different regions of the world. The role required to be the project manager for each assigned project. This involved a project compliance review of the customer’s requirements, communication with project owners and stakeholders, strategy formation, launching, problem-solving, data collection, data cleansing, data analysis, revisions and submission."
+        "description": "Managed complex pricing projects with various distributed teams throughout the world. Ensured strict compliance with customer’s requirements, coordinated constant communication between project owners and stakeholders, resolved all conflicts between stakeholders and pricing teams, and performed a detail analysis before submitting each project."
+      }
+      {
+        "company": "Kuehne and Nagel Inc. - Schindellegi, Switzerland",
+        "title": "Global Projects Pricing Analyst",
+        "years": "June 2009 - November 2013",
+        "description": "Performed the day-to-day air logistics operations for Kuehne and Nagel’s Charlotte customers. Collaborated daily with customers and created standard operating procedures (SOPs) for each customer. Performed analysis of the supply chain to identify problems and implemented corrective actions."
       }
     ],
     "skills": [
@@ -92,7 +101,7 @@
     "projects": [
       {
         "title": "Fantasy Team Builder",
-        "category": "This app allows authenticated users to build teams by fantasy points.",
+        "category": "Fantasy team sports app that allows users to create teams based on player statistics.",
         "tech": "Node.js, Express, MongoDB, Nosql, React and Redux",
         "image": "fantasyTeam.JPG",
         "url": "https://thawing-sierra-93407.herokuapp.com/",
