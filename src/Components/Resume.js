@@ -14,7 +14,7 @@ class Resume extends Component {
   render() {
 
     if(this.props.data){
-      var skillmessage = this.props.data.skillmessage;
+      // var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
@@ -27,14 +27,14 @@ class Resume extends Component {
         </div>
       })
 
-      var skills = this.props.data.skills.map((skills)=>{
-        var className = 'bar-expand '+ skills.name.toLowerCase();
-        return (
-          <li key={skills.name}>
-            <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span><em>{skills.name}</em>
-          </li>
-        )
-      })
+      // var skills = this.props.data.skills.map((skills)=>{
+      //   var className = 'bar-expand '+ skills.name.toLowerCase();
+      //   return (
+      //     <li key={skills.name}>
+      //       <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span><em>{skills.name}</em>
+      //     </li>
+      //   )
+      // })
     }
 
     return (
