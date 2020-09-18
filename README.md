@@ -4,7 +4,7 @@
 ### Location of URLs
 This is the link to the github repo:
 
- * https://github.com/egadames/flashCardApp
+ * https://github.com/egadames/portfolio
 
 This is the link to the live website:
 
