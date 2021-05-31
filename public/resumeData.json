@@ -1,20 +1,20 @@
 {
   "main": {
     "name": "Erik Adames",
-    "description": "I am a full stack software engineer with a background in Supply Chain.",
+    "description": "A Data Scientist with a background in Supply Chain.",
     "image": "profilepic.jpeg",
-    "bio": "I began my career at a local branch of Kuehne and Nagel, which is a large global shipping company, and worked full time directly after graduating college. In this role, I was able to establish a strong professional relationship with customers and become effective at developing new customers or stabilizing very demanding and complex customer accounts. In 2014, I was transferred from the local Charlotte, NC office to the global headquarters in Switzerland to lead large complex pricing projects.  These projects entailed a significant amount of analysis and access to various technological platforms. Due to this, I developed a passion for combining analysis and technology which in turn led me to enroll at the Harvard Extension School to obtain a graduate certificate in data science.In late 2018, I married my wife who is from Switzerland and we started preparing for our eventual move to the United States. My wife started receiving great offers to work in the Bay Area so this enabled me to pursue a career in a more technology-driven occupation that builds upon my strong background in analysis. To enhance my skill set, I also enrolled at the Full Stack Web Developer bootcamp offered by University of California Berkeley which was completed in 2020.  The bootcamp provided a deep understanding of a variety of computer languages as well as the principles of data structures, algorithms and object-oriented programming. My previous work experience helped develop my dependable and superb work ethic. I am now positioned for a full-time employment opportunity and hope to hear from you soon",
+    "bio": "My career began as a warehouse worker in Charlotte, NC. Due to my superb work ethic, my career progressed quickly from the warehouse in Charlotte to the global headquarters in Switzerland. When working, my focus is to be efficient which allows me to handle a large workload quickly and without errors. My last position was as a Global Project Pricing Analyst which required the managing of complex pricing projects. My projects were successful but over time an uneasy feeling starting to develop. I discovered that I wanted to work in a more dynamic and impactful field. This was the major influence that made me complete a graduate certificate in Data Science from Harvard University Extension school with the aim to work in a more technology-driven occupation. These courses reawaken my love of learning and motivated me to enhance my technical skillset further by completing a full stack web development Bootcamp. My work ethic naturally aligned with being a developer. The concept that each component is broken into small, efficient chunks that can be scaled and reused came naturally to me. This allowed me to excel in the Bootcamp. My previous work experience helped develop my dependable and superb work ethic. I am now positioned for a full-time employment opportunity and hope to hear from you soon.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "egadames990@gmail.com",
     "github": "https://github.com/egadames",
     "project": "https://www.linkedin.com/in/erikadames/",
     "address": {
-      "city": "Berkeley,",
+      "city": "Emeryville,",
       "state": " CA"
     },
     "website": "https://www.adames.dev/",
-    "resumedownload": "https://drive.google.com/file/d/1Zxlfc9BAUFCJYrVvTQlJH933xtRVuDvv/view?usp=sharing",
-    "social": [
+    "resumedownload": "https://drive.google.com/file/d/14kZZwz7GlR7qXHj0Fjooe75NY9cTdYmH/view",
+        "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/erikadames/",
@@ -28,8 +28,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
+      {
+        "school": "Harvard University Extension School",
+        "degree": "Master’s Degree in Data Science",
+        "graduated": "Expected completion in 2022",
+        "description": "Cumulative GPA 3.71"
+      },
       {
         "school": "UC Berkeley Extension",
         "degree": "Full Stack Web Developer Professional Certificate",
@@ -66,31 +71,27 @@
     "skills": [
       {
         "name": "Python",
-        "level": "60%"
-      },
-      {
-        "name": "VueJs",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
         "level": "90%"
       },
       {
-        "name": "PHP",
-        "level": "80%"
+        "name": "JavaScript",
+        "level": "70%"
       },
       {
-        "name": "Swift",
-        "level": "50%"
+        "name": "R",
+        "level": "85%"
       },
       {
-        "name": "JAVA",
-        "level": "80%"
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
       }
     ]
   },
@@ -147,9 +148,9 @@
         "image": "pwGenerator.png",
         "url": "https://egadames.github.io/Password-Generator/",
         "repo": "https://github.com/egadames/Password-Generator"
-
-
       }
     ]
   }
 }
+
+

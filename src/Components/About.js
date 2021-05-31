@@ -52,3 +52,27 @@ class About extends Component {
 }
 
 export default About;
+
+
+// {
+//    "name": "VueJs",
+//    "level": "55%"
+//  },
+
+// {
+//    "name": "PHP",
+//    "level": "80%"
+//  },
+//  {
+//    "name": "Swift",
+//    "level": "50%"
+//  },
+//  {
+//    "name": "JAVA",
+//    "level": "80%"
+//  }
+
+// {
+//    "name": "ReactJs",
+//    "level": "50%"
+//  },
